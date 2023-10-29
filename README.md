@@ -12,13 +12,13 @@ O acúmulo de resíduos plásticos, particularmente garrafas PET, representa uma
 
 ## Itens
 
-- [ ] Fonte (Link)[]
+- [ ] Fonte [Link]()
 
-- [ ] Placa mãe e LCD (Link)[https://vi.aliexpress.com/item/1005004277061303.html?srcSns=sns_Copy&spreadType=socialShare&bizType=ProductDetail&social_params=21205467766&aff_fcid=0ea231b9e1f24aafa03b355d2a50f2ce-1697134383822-03383-_mMl0PX4&tt=MG&aff_fsk=_mMl0PX4&aff_platform=default&sk=_mMl0PX4&aff_trace_key=0ea231b9e1f24aafa03b355d2a50f2ce-1697134383822-03383-_mMl0PX4&shareId=21205467766&businessType=ProductDetail&platform=AE&terminal_id=9b8a32cefe0d46af9b5969be8b8d650a&afSmartRedirect=y]
+- [ ] Placa mãe e LCD [Link](https://vi.aliexpress.com/item/1005004277061303.html?srcSns=sns_Copy&spreadType=socialShare&bizType=ProductDetail&social_params=21205467766&aff_fcid=0ea231b9e1f24aafa03b355d2a50f2ce-1697134383822-03383-_mMl0PX4&tt=MG&aff_fsk=_mMl0PX4&aff_platform=default&sk=_mMl0PX4&aff_trace_key=0ea231b9e1f24aafa03b355d2a50f2ce-1697134383822-03383-_mMl0PX4&shareId=21205467766&businessType=ProductDetail&platform=AE&terminal_id=9b8a32cefe0d46af9b5969be8b8d650a&afSmartRedirect=y)
 
-- [ ] Extrusora (Link)[https://vi.aliexpress.com/item/1005003505534192.html?spm=a2g0o.cart.0.0.76b938daWi9NQa&mp=1&gatewayAdapt=glo2vnm]
+- [ ] Extrusora [Link](https://vi.aliexpress.com/item/1005003505534192.html?spm=a2g0o.cart.0.0.76b938daWi9NQa&mp=1&gatewayAdapt=glo2vnm)
 - [ ] Extrusora > Pilar
 - [ ] Extrusora > Furadeira com broca de 1.7mm e 8mm
 
-- [ ] Motor de passo (Link)[]
+- [ ] Motor de passo [Link]()
 - [ ] Motor de passo > Engrenagens 3D
