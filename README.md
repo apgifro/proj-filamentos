@@ -2,7 +2,7 @@
 
 O acúmulo de resíduos plásticos, particularmente garrafas PET, representa uma crescente preocupação ambiental em todo o mundo. Visando uma abordagem sustentável para o reaproveitamento desses resíduos, este projeto propõe o desenvolvimento de um equipamento capaz de reciclar garrafas PET, transformando-as em filamento para impressoras 3D. Este filamento, por sua vez, será utilizado na fabricação de chaveiros personalizados do Instituto Federal de Rondônia (IFRO), servindo como brinde institucional para visitantes, materiais para o estudo de Biologia, como modelos anatômicos de células ou vírus, e ainda qualquer item requisitado. Além de oferecer uma solução ecológica para o descarte de garrafas PET, o projeto visa promover economia na aquisição de filamentos, sensibilização ambiental e reforço da imagem institucional do IFRO.
 
-[Leia mais.](/Projeto.odt)
+[Leia mais.](/Projeto.pdf)
 
 
 ## Etapas
